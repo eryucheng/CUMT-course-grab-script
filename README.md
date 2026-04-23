@@ -20,7 +20,7 @@
 ## 快速开始
 ### 1. 安装依赖
 ```bash
-pip install DrissionPage ddddocr
+pip install -r requirements.txt
 ```
 2. 运行脚本
 ```bash
